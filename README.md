@@ -9,7 +9,7 @@ Follow the steps **in order**. Do not skip reboots where mentioned.
    - [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/latest)
  - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
  - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases/latest)
- - [Lsposed-Irene](https://github.com/re-zero001/LSPosed-Irena/actions/runs/22285558644/artifacts/5609416885)
+ - [Lsposed-Irene](https://t.me/lsposed_irena/20?single)
  - [HMA-OSS](https://github.com/frknkrc44/HMA-OSS/releases/latest)
  - [HMA-config](https://github.com/actuallyaryaman/PIF-Guide/releases/download/v1/HMA_Config.json)
    
