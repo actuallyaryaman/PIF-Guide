@@ -27,6 +27,7 @@ Install these modules in order, reboot as mentioned:
 3. Lsposed-Irene
    - Reboot
 4. Integrity Box
+   - Reboot
    
    
 ### 3. Configure TrickyStore (via WebUI)
