@@ -1,4 +1,4 @@
-# Integrity Box + TrickyStore + HMA-OSS Setup Guide (February 2026)
+# Integrity Box + TrickyStore + HMA-OSS Setup Guide (April 2026)
 
 Follow the steps **in order**. Do not skip reboots where mentioned.
 
