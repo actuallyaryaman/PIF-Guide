@@ -9,7 +9,7 @@ Follow the steps **in order**. Do not skip reboots where mentioned.
  - [TEESimulator](https://github.com/JingMatrix/TEESimulator/releases/latest)
  - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
  - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases/latest)
- - [Lsposed-Irene](https://t.me/LSPosed/307)
+ - [Lsposed](https://t.me/LSPosed/307)
  - [HMA-OSS](https://github.com/frknkrc44/HMA-OSS/releases/latest)
  - [HMA-config](https://github.com/actuallyaryaman/PIF-Guide/releases/download/v1/HMA_Config.json)
    
