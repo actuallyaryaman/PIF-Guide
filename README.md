@@ -6,7 +6,7 @@ Follow the steps **in order**. Do not skip reboots where mentioned.
 
 ### 1. Download the following modules
  - [Zygisk-Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
-   - [TEESimulator]([https://github.com/5ec1cff/TrickyStore/releases/latest](https://github.com/JingMatrix/TEESimulator/releases/latest))
+ - [TEESimulator](https://github.com/JingMatrix/TEESimulator/releases/latest)
  - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
  - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases/latest)
  - [Lsposed-Irene](https://t.me/LSPosed/307)
