@@ -6,10 +6,10 @@ Follow the steps **in order**. Do not skip reboots where mentioned.
 
 ### 1. Download the following modules
  - [Zygisk-Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
-   - [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/latest)
+   - [TEESimulator]([https://github.com/5ec1cff/TrickyStore/releases/latest](https://github.com/JingMatrix/TEESimulator/releases/latest))
  - [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
  - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases/latest)
- - [Lsposed-Irene](https://t.me/lsposed_irena/20?single)
+ - [Lsposed-Irene](https://t.me/LSPosed/307)
  - [HMA-OSS](https://github.com/frknkrc44/HMA-OSS/releases/latest)
  - [HMA-config](https://github.com/actuallyaryaman/PIF-Guide/releases/download/v1/HMA_Config.json)
    
@@ -22,7 +22,7 @@ Follow the steps **in order**. Do not skip reboots where mentioned.
 Install these modules in order, reboot as mentioned:
 1. Zygisk Next.
    - Reboot (Set zygisk deny list policy as unmount only and enable the two check boxes)
-1. TrickyStore  
+1. TEESim  
 2. Tricky-Addon-Update-Target-List
 3. Lsposed-Irene
    - Reboot
@@ -35,9 +35,7 @@ Install these modules in order, reboot as mentioned:
     
 2. Keybox → Valid
     
-3. Security patch → Auto
-    
-4. SAVE
+3. SAVE
    
    
 ### 4. Run Integrity Box Action Button
